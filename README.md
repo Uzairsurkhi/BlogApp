@@ -1,9 +1,58 @@
-Welcome to My Blog
+BlogApp
+Getting Started with Create React App
+This project was bootstrapped with Create React App.
 
-Human intelligence must guide artificial intelligence
-While it is true that AI will reinvent traditional methods of working and automate certain tasks, it will also create many new jobs that require new skills
-![image](https://github.com/Uzairsurkhi/BlogApp/assets/142005632/f026afd0-6401-4608-8838-fc5bb4f7a7f8)
+Available Scripts
+In the project directory, you can run:
 
-Artificial Intelligence (AI) technologies are developing at a rapid pace, and touching our lives in unimagined ways. On one hand, AI is enhancing several day-to-day functions and improving productivity. On the other hand, there are fears that it may lead to redundancy and replacement of humans at work. As AI expands in scope and gets deployed on an increasingly wider scale, the question on everyone’s lips is: What will human intelligence look like in the future?
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
 
-While it is true that AI will reinvent traditional methods of working and automate certain tasks, it will also create many new jobs that require new skills. According to a report, the skills needed for most jobs by 2030 will have changed by 65 percent compared to 2015 owing to the integration of digital technologies, including AI. More importantly, these skills will not just include technical skills but also human capabilities such as problem solving, critical thinking, innovation, and time management. People will neither be swept aside by AI transformation, nor will they passively watch it evolve. Instead, human intelligence will be an integral part of the AI journey, and crucial to its success
+The page will reload when you make changes.
+You may also see any lint errors in the console.
+
+npm test
+Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.
+
+npm run build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.
+Your app is ready to be deployed!
+
+See the section about deployment for more information.
+
+npm run eject
+Note: this is a one-way operation. Once you eject, you can’t go back!
+
+If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+Learn More
+You can learn more in the Create React App documentation.
+
+To learn React, check out the React documentation.
+
+Code Splitting
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+Analyzing the Bundle Size
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+Making a Progressive Web App
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+Advanced Configuration
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+Deployment
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+npm run build fails to minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
